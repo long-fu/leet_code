@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(leet_code VERSION 0.1.0 LANGUAGES C CXX)
+
+add_subdirectory(1929)
+add_subdirectory(771)
+add_subdirectory(1480)
+add_subdirectory(709)
+add_subdirectory(1672)
+add_subdirectory(66)
+add_subdirectory(724)
